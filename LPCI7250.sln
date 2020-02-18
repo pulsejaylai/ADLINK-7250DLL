@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LPCI7250", "LPCI7250\LPCI7250.vcxproj", "{1F80FBFC-F9F1-4A95-8D52-46F21BC64822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F80FBFC-F9F1-4A95-8D52-46F21BC64822}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F80FBFC-F9F1-4A95-8D52-46F21BC64822}.Debug|Win32.Build.0 = Debug|Win32
+		{1F80FBFC-F9F1-4A95-8D52-46F21BC64822}.Release|Win32.ActiveCfg = Release|Win32
+		{1F80FBFC-F9F1-4A95-8D52-46F21BC64822}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
